@@ -1,0 +1,35 @@
+
+.fl-left {
+    float: left;
+
+}
+
+.clearfix {
+    clear: both;
+}
+
+/* .image{
+    width: 30%;
+} */
+
+.image img{
+    width: 400px;
+}
+
+.plan{ background-color:#472D2D; color :white}
+
+.plan a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.plan a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+
+
+.tableau tr{background-color:  #a77979;}
+
+.tableau tr:hover {background-color:  #fff;}
